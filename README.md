@@ -13,9 +13,9 @@ This is hello word application containing follwing things
   - follow system setup under:
   - http://magento2-tuts.blogspot.de/2016/07/angular-2-create-first-project.html
 
-- checkout project
- - cd /first-app
- - cmd: ng serve
- - surfe to localhost:4200
+  - checkout project
+  - cd /first-app
+  - cmd: ng serve
+  - surfe to localhost:4200
 
 
